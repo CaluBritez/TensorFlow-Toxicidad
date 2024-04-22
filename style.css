@@ -1,0 +1,36 @@
+body {
+    background-color: #f2f2f2;
+}
+#tituloResultados{
+    margin-bottom: 10px;
+}
+#datos{
+    border-radius: solid black;
+    background-color: #fcf75e;
+    padding: 20px;
+    margin: 20px;
+}
+#datos input{
+    margin-top: 8px;    
+}
+#resultados{
+    border-radius: solid black;
+    background-color: #f2f2f2;
+    padding: 20px;
+    margin: 20px;
+}
+#categoria{
+    font-weight: bold;
+}
+#tituloTabla{
+    background-color: #fcf75e;
+
+}
+#verde{
+    color: green;
+    font-weight: bold;
+}
+#rojo{
+    color: red;
+    font-weight: bold;
+}
